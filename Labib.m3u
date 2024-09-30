@@ -197,3 +197,14 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Backup
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.pngg", ANIMAL PLANET HD
+https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8

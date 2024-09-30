@@ -219,42 +219,34 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://opplex.tv:8080/live/global/global/383065.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE net
 http://opplex.tv:8080/live/global/global/383062.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE net
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",Zee bangla cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DBC NEWS
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", CHANNEL 24
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DESH TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ATN BANGLA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", AL JAZEERA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BTV WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ANANDA TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ananda_tv
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BBC WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BOISHAKHI TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",CHANNEL I
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
-
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",EKUSHEY TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekushey_tv
-
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",RTV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SA TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",GAAN BANGLA
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gaan_bangla

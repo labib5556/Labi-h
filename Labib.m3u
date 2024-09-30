@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://opplex.tv:8080/live/global/global/167570.ts
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", ten2
+http://opplex.tv:8080/live/global/global/167570.ts
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-Ten 1_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, Ten 1
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten2_hd_576/sony_ten2_hd_576.m3u8

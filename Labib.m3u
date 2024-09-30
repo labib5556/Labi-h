@@ -211,5 +211,4 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",Eurosports
 http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="EBox",Boishakhi
-http://tv.ebox.live:8080/live/boishakhi.m3u8
+

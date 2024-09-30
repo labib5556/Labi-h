@@ -255,17 +255,21 @@ http://filex.tv:8080/live/6272537/276327/9.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONIC 
 http://filex.tv:8080/live/6272537/276327/246767.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX ACTION 1
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 1
 http://opplex.tv:8080/live/global/global/247998.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX ACTION 2
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 2
 http://opplex.tv:8080/live/global/global/247999.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX ACTION 3
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 3
 http://opplex.tv:8080/live/global/global/248000.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX ACTION 4
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 4
 http://opplex.tv:8080/live/global/global/248001.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX ACTION 5
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX ACTION 5
 http://opplex.tv:8080/live/global/global/248002.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX HORROR
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX HORROR
 http://opplex.tv:8080/live/global/global/348042.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NETFLIX DRAMA
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX DRAMA
 http://opplex.tv:8080/live/global/global/348041.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX GOLD
+http://starsat.us:8080/live/8582/8582/178365.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX GOLD
+http://starsat.us:8080/live/8582/8582/252199.ts

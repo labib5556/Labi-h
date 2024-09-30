@@ -49,7 +49,7 @@ http://103.190.85.38/hls/tsports.m3u8
 http://103.190.85.38/hls/sony10.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", HBO HD
-http://209.45.101.35:50000/play/HBOHD/index.m3u8
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", colors bangla
 http://217.20.112.199/colorsbangla/index.m3u8
@@ -108,6 +108,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/thenayeemparvez.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE MARATHI 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE MARATHI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparvez.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO
+http://217.20.112.199/pogo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR PLUS 
+http://217.20.112.199/starplushd/index.m3u88
 

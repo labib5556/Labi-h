@@ -273,3 +273,6 @@ http://opplex.tv:8080/live/global/global/348041.ts
 http://starsat.us:8080/live/8582/8582/178365.ts
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", NETFLIX GOLD
 http://starsat.us:8080/live/8582/8582/252199.ts
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", Tbs
+http://xtv.ooo:8080/live/927382370/837382809/346613.ts

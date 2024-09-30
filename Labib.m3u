@@ -194,3 +194,6 @@ http://opplex.tv:8080/live/global/global/109988.ts
 
 #EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="",NAGORIK TV
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8

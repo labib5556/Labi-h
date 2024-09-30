@@ -192,3 +192,5 @@ http://opplex.tv:8080/live/global/global/109987.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 2 HD
 http://opplex.tv:8080/live/global/global/109988.ts
 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",  HD
+http://45.249.187.238:8081/hls/new20.m3u8

@@ -8,3 +8,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_ten1_hd_576/sony_ten1_h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="sports", desh
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="sports", desh
+http://opplex.tv:8080/live/global/global/167570.ts

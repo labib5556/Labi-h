@@ -185,3 +185,6 @@ http://opplex.tv:8080/live/global/global/167551.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY AAT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS 1 HD
+http://opplex.tv:8080/live/global/global/109987.ts

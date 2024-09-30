@@ -4,7 +4,7 @@
 http://opplex.tv:8080/live/global/global/109984.ts
 
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, ten 3
-http://103.154.47.147:8001/play/a04r
+http://opplex.tv:8080/live/global/global/167572.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten cricket
 http://opplex.tv:8080/live/global/global/167587.ts
@@ -114,6 +114,23 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO
 http://217.20.112.199/pogo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", gtv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Uwh7f4_j-nm4UfRB5BCdjw&expires=1724536535&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", atn news
+http://opplex.tv:8080/live/global/global/245905.ts
 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MOHONA TV
+http://opplex.tv:8080/live/global/global/245920.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EKATTOR TV
+http://opplex.tv:8080/live/global/global/245915.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BANGLAVISION
+http://opplex.tv:8080/live/global/global/245957.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", INDEPENDENT TV
+http://opplex.tv:8080/live/global/global/245916.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SANGET BANGLA
+http://xtv.ooo:8080/live/927382370/837382809/245933.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MY TV
+http://xtv.ooo:8080/live/927382370/837382809/245964.ts

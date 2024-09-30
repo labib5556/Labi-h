@@ -192,6 +192,9 @@ http://opplex.tv:8080/live/global/global/109987.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 2 HD
 http://opplex.tv:8080/live/global/global/109988.ts
 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",sony max
+http://opplex.tv:8080/live/global/global/221259.ts
+
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",  Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 

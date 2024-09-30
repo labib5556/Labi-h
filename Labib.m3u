@@ -90,11 +90,11 @@ http://b1g.uk:80/5193/5193/164493
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SKY SPORTS CRICKET
 http://b1g.uk:80/5193/5193/261002
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS 1
-http://103.84.57.155:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS SELECT 1
+http://opplex.tv:8080/live/global/global/167578.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS 2
-http://103.84.57.155:8000/play/a09z/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS SELECT 2
+http://opplex.tv:8080/live/global/global/167579.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SUN  TV 1
 http://z88.ubtvfans.com/live/rx4/1458/7e848ee93c1ee63c5b99dd70afa8bf47/index.m3u8
@@ -188,3 +188,6 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS 1 HD
 http://opplex.tv:8080/live/global/global/109987.ts
+
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR SPORTS 2 HD
+http://opplex.tv:8080/live/global/global/109988.ts

@@ -4,11 +4,13 @@
 http://opplex.tv:8080/live/global/global/109984.ts
 
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, ten 3
-http://opplex.tv:8080/live/global/global/167572.ts
+http://103.154.47.147:8001/play/a04r
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten cricket
 http://opplex.tv:8080/live/global/global/167587.ts
 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 1
+http://opplex.tv:8080/live/global/global/167570.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
@@ -113,5 +115,5 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparv
 http://217.20.112.199/pogo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", STAR PLUS 
-http://103.154.47.147:8001/play/a04r
+
 

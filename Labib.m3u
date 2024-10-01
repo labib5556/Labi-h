@@ -299,18 +299,11 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/219689.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SUPER SPORTS VARIETY 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/347276.ts
 
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1, Bein Sports 1 France 🇫🇷
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", Bein Sports 1 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
-
-#EXTINF:-1, Bein Sports 2 France 🇫🇷
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",Bein Sports 2 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
-
-#EXTINF:-1, Bein Sports 3 France 🇫🇷
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
-#EXTINF:-1, Bein Sports 3 France 🇫🇷
-http://213.176.3.72:1234/stream/FRANCE/971/master.m3u8
 

@@ -16,16 +16,17 @@ http://opplex.tv:8080/live/global/global/167572.ts
 http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png"sports", ten 1
 http://opplex.tv:8080/live/global/global/167570.ts
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 1 HD
+
+#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 1 HD
 https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 2 HD
-https://nowsports.in/sliv/stream.php?id=96585698&e=m3u8
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 3 HD
-https://nowsports.in/sliv/stream.php?id=36523652&e=m3u8
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 4 HD
-https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
+#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 2 HD
+http://xtv.ooo:8080/live/927382370/837382809/167571.ts
+#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 3 HD
+http://xtv.ooo:8080/live/927382370/837382809/167572.ts
+#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 4 HD
+http://xtv.ooo:8080/live/927382370/837382809/167595.ts
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 5 HD
-https://nowsports.in/sliv/stream.php?id=985663256&e=m3u8
+http://xtv.ooo:8080/live/927382370/837382809/167580.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
 

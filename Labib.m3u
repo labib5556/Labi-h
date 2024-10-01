@@ -142,13 +142,27 @@ http://xtv.ooo:8080/live/927382370/837382809/245964.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", JAMUNA TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NAGORIK TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EKATTOR TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BIJOY TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NEXUS TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ASIAN TV
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=asian_tv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", LOONEY TUNES
 http://zeusplay.life:80/live/IVONE123/IVONE321/27188.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", 
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=quran_tv
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BEN 10
 http://zeusplay.life:80/live/IVONE123/IVONE321/27195.ts
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY ENTERTAINMENT
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY YAY
+http://opplex.tv:8080/live/global/global/26187.ts 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POPEYE
 http://zeusplay.life:80/live/IVONE123/IVONE321/27224.ts
 

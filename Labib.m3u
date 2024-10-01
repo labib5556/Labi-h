@@ -14,7 +14,7 @@ http://opplex.tv:8080/live/global/global/167572.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten sports
 http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 1
+#EXTINF:-1 tvg-logo="https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg"sports", ten 1
 http://opplex.tv:8080/live/global/global/167570.ts
 #EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 1 HD
 https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -26,7 +26,7 @@ https://nowsports.in/sliv/stream.php?id=36523652&e=m3u8|Referer=https://nowsport
 https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
 #EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 5 HD
 https://nowsports.in/sliv/stream.php?id=985663256&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
+#EXTINF:-1 tvg-logo="https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg" group-title="sports", ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport tv 1
@@ -134,9 +134,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO
 http://217.20.112.199/pogo/index.m3u8
 
+#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, ATN BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", atn news
 http://opplex.tv:8080/live/global/global/245905.ts
-
+#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”,ATN MUSIC
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MOHONA TV
 http://opplex.tv:8080/live/global/global/245920.ts
 

@@ -17,16 +17,18 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png"sports", ten 1
 http://opplex.tv:8080/live/global/global/167570.ts
 
-#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 1 HD
-https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", TEN  1
+http://xtv.ooo:8080/live/927382370/837382809/167570.ts 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TEN 2
 http://xtv.ooo:8080/live/927382370/837382809/167571.ts
-#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TEN 3
 http://xtv.ooo:8080/live/927382370/837382809/167572.ts
-#EXTINF:-1 tvg-logo=”https://etimg.etb2bimg.com/photo/111517844.cms” SONY SPORTS TEN 4 HD
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TEN 4
 http://xtv.ooo:8080/live/927382370/837382809/167595.ts
-#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TEN 5
 http://xtv.ooo:8080/live/927382370/837382809/167580.ts
+
+
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
 
@@ -355,9 +357,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",sony  aat 2
 https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-
-
-
 
 
 

@@ -35,8 +35,6 @@ http://opplex.tv:8080/live/global/global/301503.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", wwe
 http://opplex.tv:8080/live/global/global/347336.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha
-http://opplex.tv:8080/live/global/global/245898.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha
 http://opplex.tv:8080/live/global/global/245898.ts

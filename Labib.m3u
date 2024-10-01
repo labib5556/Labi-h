@@ -16,7 +16,16 @@ http://opplex.tv:8080/live/global/global/167572.ts
 http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 1
 http://opplex.tv:8080/live/global/global/167570.ts
-
+#EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 1 HD
+https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 2 HD
+https://nowsports.in/sliv/stream.php?id=96585698&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 3 HD
+https://nowsports.in/sliv/stream.php?id=36523652&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 4 HD
+https://cricsters.fun/s/stream.php?id=sony-ten-4-hd&e=.m3u8
+#EXTINF:-1 tvg-logo=”https://images.storyboard18.com/storyboard18/2024/06/Oreo-rolls-out-a-chance-to-experience-space-through-its-Oreo-Space-Dunk-cookie-pack-2024-06-24T123348.777-2024-06-ebcb103c0c8b634cdbff28e046de0408.jpg” SONY SPORTS TEN 5 HD
+https://nowsports.in/sliv/stream.php?id=985663256&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
 
@@ -40,6 +49,12 @@ http://opplex.tv:8080/live/global/global/347336.ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=116592
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha HD
 #http://xtv.ooo:8080/live/golbal/global/245898.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png” group-title=” SONY AAT
+https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=” STAR JALSHA 
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”Bangla”, STAR JALSHA HD
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", zee bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8

@@ -307,3 +307,55 @@ http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
 
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://181.78.8.90:16123/play/ch16
+
+#EXTINF:-1,ESPN 🇦🇷
+http://190.60.32.178:8178/play/a02k/index.m3u8
+
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://38.51.233.85:8000/play/a03x/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://181.78.8.90:16123/play/ch17
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://38.51.233.85:8000/play/a03s/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD 🇦🇷
+http://190.60.32.178:8178/play/a02x/index.m3u8
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://181.78.8.90:16123/play/ch18
+
+#EXTINF:-1,ESPN 3 HD 🇦🇷
+http://190.60.32.178:8178/play/a015/index.m3u8
+
+#EXTINF:-1,ESPN 4 HD 🇦🇷
+http://190.60.32.178:8178/play/a0ab/index.m3u8
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://181.78.8.90:16123/play/ch19
+
+#EXTINF:-1,ESPN 5 🇦🇷
+http://190.60.32.178:8178/play/a0ac/index.m3u8
+
+#EXTINF:-1,ESPN 6 🇦🇷
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://209.45.20.210:50001/play/a00w/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://190.60.32.178:8178/play/a02w/index.m3u8
+
+#EXTINF:-1,ESPN 7 🇦🇷
+http://190.60.32.178:8178/play/a0ad/index.m3u8
+
+#EXTINF:-1, ESPN Premium HD 🇦🇷
+http://209.45.20.210:50001/play/a02p/index.m3u8
+
+#EXTINF:-1, FOX DEPORTES 🇦🇷
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+

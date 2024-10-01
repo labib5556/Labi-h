@@ -12,9 +12,8 @@ http://opplex.tv:8080/live/global/global/109984.ts
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, ten 3
 http://opplex.tv:8080/live/global/global/167572.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten cricket
-http://opplex.tv:8080/live/global/global/167587.ts
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten sports
+http://xtv.ooo:8080/live/Galaxy.2/4321/167569.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 1
 http://opplex.tv:8080/live/global/global/167570.ts
 
@@ -294,9 +293,9 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/352091.ts
 http://xtv.ooo:8080/live/Galaxy.2/4321/238475.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/238481.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SKY CRICKET
+http://xtv.ooo:8080/live/Galaxy.2/4321/167594.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png", A SPORTS
+http://xtv.ooo:8080/live/Galaxy.2/4321/219689.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SUPER SPORTS VARIETY 1
+http://xtv.ooo:8080/live/Galaxy.2/4321/347276.ts

@@ -354,7 +354,6 @@ http://103.84.57.155:8000/play/a03u/index.m3u8
 http://103.84.57.155:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",sony  aat 2
 https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 
@@ -363,8 +362,64 @@ https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",DISNEY 
+http://117.102.16.2:34567/play/a09d/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DISNEY JR
+http://117.102.16.2:34567/play/a09f/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EPIC SD 
+http://117.102.16.2:34567/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EUROSPORT HD
+http://117.102.16.2:34567/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", HISTORY TV18 FHD
+http://117.102.16.2:34567/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", HUNGAMA KIDS SD
+http://117.102.16.2:34567/play/a09c/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", INVESTIGATION DISCOVERY 
+http://117.102.16.2:34567/play/a08z/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MN+ HD
+http://117.102.16.2:34567/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", MTV SD
+http://117.102.16.2:34567/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NAT GEO FHD
+http://117.102.16.2:34567/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NAT GEO WILD HD
+http://117.102.16.2:34567/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NICK HD+
+http://117.102.16.2:34567/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",NICK JR. SD
+http://117.102.16.2:34567/play/a09j/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", NICK SD
+http://117.102.16.2:34567/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO Sd
+http://117.102.16.2:34567/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONIC NICK SD
+http://117.102.16.2:34567/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY BBC EARTH HD
+http://117.102.16.2:34567/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY MAX 2 SD
+http://117.102.16.2:34567/play/a08l/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY MAX HD
+http://117.102.16.2:34567/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY PAL
+http://117.102.16.2:34567/play/a07w/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY PIX HD
+http://117.102.16.2:34567/play/a086/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY SAB FHD
+http://117.102.16.2:34567/play/a08q/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY SPORTS 1 FHD
+http://117.102.16.2:34567/play/a08u/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY SPORTS 2
+http://117.102.16.2:34567/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY SPORTS 3 FHD
+http://117.102.16.2:34567/play/a090/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY SPORTS 5
+http://117.102.16.2:34567/play/a08v/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SONY TV HD
+http://117.102.16.2:34567/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SPORTS 18 1 HD
+http://117.102.16.2:34567/play/a093/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR BHARAT FHD
+http://117.102.16.2:34567/play/a080/index.m3u8
 
 
 

@@ -424,24 +424,38 @@ http://117.102.16.2:34567/play/a080/index.m3u8
 http://117.102.16.2:34567/play/a089/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE CAFE HD
 http://117.102.16.2:34567/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",NATIONAL GEOGRAPHIC
+http://117.102.16.2:34567/play/a098/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",MOVIES HD
+http://117.102.16.2:34567/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a092/index.m3u8
+http://117.102.16.2:34567/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a094/index.m3u8
+http://117.102.16.2:34567/play/a082/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a095/index.m3u8
+http://117.102.16.2:34567/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a096/index.m3u8
+http://117.102.16.2:34567/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a097/index.m3u8
+http://117.102.16.2:34567/play/a085/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a098/index.m3u8
+http://117.102.16.2:34567/play/a086/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a099/index.m3u8
+http://117.102.16.2:34567/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a100/index.m3u8
+http://117.102.16.2:34567/play/a08b/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
-http://117.102.16.2:34567/play/a087/index.m3u8
+http://117.102.16.2:34567/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
+http://117.102.16.2:34567/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
+http://117.102.16.2:34567/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
+http://117.102.16.2:34567/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
+http://117.102.16.2:34567/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",z
+http://117.102.16.2:34567/play/a08h/index.m3u8
 
 

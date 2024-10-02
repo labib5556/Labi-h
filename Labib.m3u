@@ -480,14 +480,15 @@ http://117.102.16.2:34567/play/STARPRAVAHHD/index.m3u8
 http://117.102.16.2:34567/play/STARSUVARNAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",SUPER HUNGAMA
 http://117.102.16.2:34567/play/SuperHungama/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", at
+https://nowmelive.com/live/sony-aath.m3u
+
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE CINEMALU HD
 http://117.102.16.2:34567/play/ZEECINEMALUHD/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", at
-https://nowmelive.com/live/sony-aath/
 
 
 

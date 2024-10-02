@@ -438,8 +438,7 @@ http://117.102.16.2:34567/play/a082/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR GOLD 2 SD
-http://117.102.16.2:34567/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR GOLD ROMANCE
 http://117.102.16.2:34567/play/a08i/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR GOLD SELECT HD
@@ -448,8 +447,6 @@ http://117.102.16.2:34567/play/a084/index.m3u8
 http://117.102.16.2:34567/play/a08h/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR LIFE FHD
 http://117.102.16.2:34567/play/a08n/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR MOVIES FHD
-http://117.102.16.2:34567/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR MOVIES SELECT FHD
 http://117.102.16.2:34567/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR PLUS HD
@@ -460,8 +457,6 @@ http://117.102.16.2:34567/play/a08s/index.m3u8
 http://117.102.16.2:34567/play/a08w/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR SPORTS 2 HD
 http://117.102.16.2:34567/play/a08t/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR SPORTS 3 
-http://117.102.16.2:34567/play/a091/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR SPORTS SELECT 1 
 http://117.102.16.2:34567/play/a088/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR SPORTS SELECT 2 
@@ -482,8 +477,6 @@ http://117.102.16.2:34567/play/a07o/index.m3u8
 http://117.102.16.2:34567/play/a09l/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",PTV SPORTS FHD
 http://117.102.16.2:34567/play/ptvsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR BHARAT SD
-http://117.102.16.2:34567/play/STARBHARATSD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR JALSHA HD
 http://117.102.16.2:34567/play/STARJALSHAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR JALSHA MOVIES
@@ -492,8 +485,6 @@ http://117.102.16.2:34567/play/STARJALSHAMOVIESHD/index.m3u8
 http://117.102.16.2:34567/play/STARMAAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR MAA MOVIES HD
 http://117.102.16.2:34567/play/STARMAAMOVIESHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR PLUS SD
-http://117.102.16.2:34567/play/STARPLUSSD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR PRAVAH HD
 http://117.102.16.2:34567/play/STARPRAVAHHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",STAR SUVARNA HD
@@ -502,8 +493,7 @@ http://117.102.16.2:34567/play/STARSUVARNAHD/index.m3u8
 http://117.102.16.2:34567/play/SuperHungama/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE CINEMALU HD
 http://117.102.16.2:34567/play/ZEECINEMALUHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE KERALAM HD
-http://117.102.16.2:34567/play/ZEEKERALAMHD/index.m3u8
+
 
 
 

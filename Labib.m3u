@@ -4,7 +4,8 @@
 https://m1-117b.protect-cdn.net/live/m1-index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
-
+#EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, aat
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, NTv
 http://opplex.tv:8080/live/global/global/109984.ts
 

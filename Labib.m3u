@@ -493,15 +493,15 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 
 #EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY ten 1
 https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
-Sony Sports Ten 2
+#EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY ten2
 https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
-Sony Sports Ten 3
+#EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY ten 3
 https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
-Sony Sports Ten 5
+#EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY ten 5
 https://api.iptvbd.xyz/api/sony_six_hd.m3u8
-Sony Entertainment SD
+#EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, Sony Entertainment SD
 https://api.iptvbd.xyz/api/sony_entertainment.m3u8
-Sony Entertainment HD
+#EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY Entertainment HD
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 Sony Max SD
 https://api.iptvbd.xyz/api/sony_max.m3u8

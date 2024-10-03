@@ -42,7 +42,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8
 http://opplex.tv:8080/live/global/global/245920.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", EKATTOR TV
 http://opplex.tv:8080/live/global/global/245915.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BANGLAVISION
+#EXTINF:-1 tvg-logo="" group-title="all channels", BANGLAVISION
 http://opplex.tv:8080/live/global/global/245957.ts
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", INDEPENDENT TV
 http://opplex.tv:8080/live/global/global/245916.ts
@@ -489,6 +489,19 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=160
 https://fifabangladesh.live/VHOD/go.php?id=Colors_voot_MOB
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",  COLORS INFINITY
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
+
+
+
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+
+
+
+
+
+
 
 
 

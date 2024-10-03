@@ -511,5 +511,24 @@ http://117.102.16.2:34567/play/ZEECINEMALUHD/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", Toofan
+#EXTINF:-1 tvg-logo="https://static.digit.in/OTT/v2/images/toofan-1526960.jpg" group-title="Movie", Toofan
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/2d07737257387d9e6a4fc8982efaa461.jpg" group-title="Movie", Awara 
+http://xtv.ooo:8080/movie/518340/238497/253061.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", bangali babu english mam
+http://xtv.ooo:8080/movie/518340/238497/253065.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", challange
+http://xtv.ooo:8080/movie/518340/238497/253085.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie",dui prithibi 
+http://xtv.ooo:8080/movie/518340/238497/253105.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", le halua le 
+http://xtv.ooo:8080/movie/518340/238497/253151.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", loveria
+http://xtv.ooo:8080/movie/518340/238497/253155.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", paglu 2
+http://xtv.ooo:8080/movie/518340/238497/253176.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", rocky  
+http://xtv.ooo:8080/movie/518340/238497/253188.mkv
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", female 4
+http://xtv.ooo:8080/movie/518340/238497/378791.mkv
+

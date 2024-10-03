@@ -492,9 +492,81 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 
 
 
+#EXTINF:-1, tvg-id="Asian TV" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Unsorted",Asian TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Disney Channel india" tvg-logo="Logo N/A" tvg-name="Disney Channel india"  group-title="Unsorted",Disney Channel india
+http://45.249.187.238:8081/hls/live0.m3u8
 
 #EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://103.205.133.14/hls/atnbangla.m3u8
+
+#EXTINF:-1, tvg-id="Lahore News" tvg-logo="Logo N/A" tvg-name="Lahore News"  group-title="Unsorted",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/106.m3u8
+
+#EXTINF:-1, tvg-id="ATN Music" tvg-logo="Logo N/A" tvg-name="ATN Music"  group-title="Unsorted",ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN News" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1, tvg-id="ATN News" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted",ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted",BTV
+http://103.205.133.14/hls/btv.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://103.205.133.14/hls/banglavision.m3u8
+
+#EXTINF:-1, tvg-id="Boishakhi" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Unsorted",Boishakhi
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://iptv.kitv.live:1935/live/Shari/MTV-P/120.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Bangla TV" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted",Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+http://103.205.133.14/hls/btvworld.m3u8
+
+#EXTINF:-1, tvg-id="Boishakhi" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Unsorted",Boishakhi
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Asian TV" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Unsorted",Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+http://103.205.133.19/hls/btvworld.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
 
 
 

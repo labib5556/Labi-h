@@ -382,6 +382,9 @@ https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
 #EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, B4U Movies
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03AmBlcuMwONdLKy1grALRJZbT3R86Pn92Q&s”,Peace tv bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIxM7-_CwU63Dr4dxbqFqYFyYCm5Mrrs01A&s”,Madina tv

@@ -4,6 +4,8 @@
 https://m1-117b.protect-cdn.net/live/m1-index.m3u8
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", IND VS BD 
 https://fdev.short.gy/IndVbanxRanapk.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aYW5iA2m7cmvwMBIp4-YkUkbesgPIrParQ&s", ICC WOMEN'S T20
+http://opplex.tv:8080/live/global/global/109987.ts
 
 
 #EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY AAT

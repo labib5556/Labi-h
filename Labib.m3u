@@ -580,5 +580,3 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728217828:KeyName=prod_linear:Signature=8XElI1ZjHTPz2YisajP2op4Gpx-Wb1C7rjLmPyYEBvdOKaSojjv46XNfcSXQbyYeRF2nT5WqbowW0uk5qKrPCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 http://xtv.ooo:8080/movie/518340/238497/253188.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", challange
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8

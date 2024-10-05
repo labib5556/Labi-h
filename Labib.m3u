@@ -33,14 +33,8 @@ http://xtv.ooo:8080/live/57530716/48076436/245916.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png",Ekattor Tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719833976219.png",Animal Palate 
-http://xtv.ooo:8080/live/09448630/09888785/206282.ts
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png",ATN News 
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png",Str Movies 
-http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png",NTV
 http://tv.cloudcdn.me:80/live.ts?channelId=109&uid=16068&deviceMac=00:1A:79:ED:10:29

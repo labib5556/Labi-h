@@ -615,7 +615,10 @@ http://xtv.ooo:8080/movie/518340/238497/253155.mkv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", paglu 2
 http://xtv.ooo:8080/movie/518340/238497/253176.mkv
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", rocky 
-
+#EXTINF:-1 tvg-id="" tvg-name="Love Express (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLPSqFVXQBe7Jq2l8fWLhLqMrzh.jpg" group-title="BANGALI MOVIES",Love Express (2016)
+http://xtv.ooo:8080/movie/35588981/18988553/253155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loveria (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3uY8a4uhRH6qk3o6IIOXzzxz4h.jpg" group-title="BANGALI MOVIES",Loveria (2013)
+http://xtv.ooo:8080/movie/35588981/18988553/253157.mkv
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", female 4
 http://xtv.ooo:8080/movie/518340/238497/378791.mkv

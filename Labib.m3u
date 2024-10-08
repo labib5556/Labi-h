@@ -34,6 +34,8 @@ http://xtv.ooo:8080/live/927382370/837382809/167571.ts
 http://xtv.ooo:8080/live/927382370/837382809/167572.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Sony_Sports_Network.jpg/revision/latest/scale-to-width-down/800?cb=20221025083208"all channels",TEN 4
 http://xtv.ooo:8080/live/927382370/837382809/167595.ts
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Sony_Sports_Network.jpg/revision/latest/scale-to-width-down/800?cb=20221025083208"all channels",TEN 5
 http://xtv.ooo:8080/live/927382370/837382809/167580.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath

@@ -501,6 +501,15 @@ https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="Cricket 🏏", T-Sports HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="sony-max-hd" group-title="Labib's SonyLIV",Sony MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="sony-max" group-title="Labib's SonyLIV",Sony MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="sony-wah" group-title="Labib's SonyLIV",Sony WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="sony-max-2" group-title="Labib's SonyLIV",Sony MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+
 
 #EXTINF:-1, TNT SPORT 1 
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8

@@ -194,6 +194,9 @@ http://opplex.tv:8080/live/global/global/167572.ts
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport tv 1
 http://opplex.tv:8080/live/global/global/352930.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", SSC 1
+http://opplex.tv:8080/live/global/global/353561.ts
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", SSC 2
 
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", sport 18 1
 http://opplex.tv:8080/live/global/global/382205.ts

@@ -173,6 +173,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/250/65/png-clipart-logo-bijoy-tv-brand-television-mpeg-4-part-14-television-blue.png" group-title="all channels", BIJOY TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv
+http://xtv.ooo:8080/live/927382370/837382809/245946.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png"all channels", NEXUS TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapJUrVwZz94K-9P-zdcMN6MjyZak6B4ro3g&s" group-title="all channels", ASIAN TV

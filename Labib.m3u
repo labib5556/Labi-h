@@ -176,8 +176,10 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv
 http://xtv.ooo:8080/live/927382370/837382809/245946.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png"all channels", NEXUS TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
+http://opplex.tv:8080/live/global/global/245949.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapJUrVwZz94K-9P-zdcMN6MjyZak6B4ro3g&s" group-title="all channels", ASIAN TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=asian_tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo=”https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png” group-title=”Bangla”, NTv
 http://opplex.tv:8080/live/global/global/109984.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
@@ -369,6 +371,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=desh_tv
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png",ATN Bangla
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_bangla
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png"all channels",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWWR5RTejUpStuLCyt4VWu_C3uC4Y9bKAobg&s" group-title="all channels", CHANNEL 9

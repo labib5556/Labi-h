@@ -453,8 +453,6 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=boishakhi_tv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDZsPsPGp3Za5iMiQHPZtzQxvm3MOQ3F0rQ&s" group-title="all channels",CHANNEL I
 https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png"all channels",EKUSHEY TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMs3D8vEtyGmhsERTa4-0KWFYSVm1PKIGArw&s" group-title="all channels",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWipMQRR49g3ro-hYWvpgHULGuGRHEBrSLQ&s"all channels",SA TV

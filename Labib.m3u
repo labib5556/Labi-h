@@ -269,44 +269,44 @@ http://opplex.tv:8080/live/global/global/353561.ts
 http://opplex.tv:8080/live/global/global/382205.ts
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", pink panther
+#EXTINF:-1 tvg-logo="", pink panther
 http://opplex.tv:8080/live/global/global/301503.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", wwe
+#EXTINF:-1 tvg-logo=""sports", wwe
 http://opplex.tv:8080/live/global/global/347336.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", star jalsha HD
+#EXTINF:-1 tvg-logo=""all channels", star jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116592&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”Bangla”, STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116592&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", zee bangla
+#EXTINF:-1 tvg-logo=""all channels", zee bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", jalsha movies
+#EXTINF:-1 tvg-logo=""all channels", jalsha movies
 http://opplex.tv:8080/live/global/global/245900.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOH-HsIdfvzwiwSoKZYEkAQxnv2kFpRkFSw&s"sports", t sports
 http://opplex.tv:8080/live/global/global/245901.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", ten 2
+#EXTINF:-1 tvg-logo=""sports", ten 2
 http://103.190.85.38/hls/sony10.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo=" ", T Sports HD 
 https://fdev.short.gy/PakVenGxRanaPk.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", HBO HD
+#EXTINF:-1 tvg-logo=""sports", HBO HD
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", colors bangla
+#EXTINF:-1 tvg-logo=""sports", colors bangla
 http://217.20.112.199/colorsbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", zee tv hd
+#EXTINF:-1 tvg-logo=""sports", zee tv hd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", HBO
+#EXTINF:-1 tvg-logo=""all channels", HBO
 http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/01/Willow-is-on-DIRECTV.png" group-title="all channels", WILLOW CRICKET
@@ -333,74 +333,74 @@ http://opplex.tv:8080/live/global/global/167578.ts
 http://opplex.tv:8080/live/global/global/167579.ts
 
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", KTV TAMIL
+#EXTINF:-1 tvg-logo=""all channels", KTV TAMIL
 http://xtv.ooo:8080/live/Galaxy.2/4321/380961.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE ANMOL
+#EXTINF:-1 tvg-logo=""all channels", ZEE ANMOL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZING
+#EXTINF:-1 tvg-logo=""all channels", ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/thenayeemparvez.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",ZEE MARATHI
+#EXTINF:-1 tvg-logo=""all channels",ZEE MARATHI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/thenayeemparvez.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POGO
+#EXTINF:-1 tvg-logo=""all channels", POGO
 http://217.20.112.199/pogo/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8?v=1
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", LOONEY TUNES
+#EXTINF:-1 tvg-logo=""all channels", LOONEY TUNES
 http://zeusplay.life:80/live/IVONE123/IVONE321/27188.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", 
+#EXTINF:-1 tvg-logo=""all channels", 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=quran_tv
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BEN 10
+#EXTINF:-1 tvg-logo="", BEN 10
 http://zeusplay.life:80/live/IVONE123/IVONE321/27195.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY ENTERTAINMENT
+#EXTINF:-1 tvg-logo="", SONY ENTERTAINMENT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY YAY
+#EXTINF:-1 tvg-logo="", SONY YAY
 http://opplex.tv:8080/live/global/global/26187.ts 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", POPEYE
+#EXTINF:-1 tvg-logo="", POPEYE
 http://zeusplay.life:80/live/IVONE123/IVONE321/27224.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",TOM AND JERRY
+#EXTINF:-1 tvg-logo=""all channels",TOM AND JERRY
 http://zeusplay.life:80/live/IVONE123/IVONE321/59551.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", TOM AND JERRY 
+#EXTINF:-1 tvg-logo=""all channels", TOM AND JERRY 
 http://zeusplay.life:80/live/IVONE123/IVONE321/495.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", CIGOHNA 
+#EXTINF:-1 tvg-logo=""all channels", CIGOHNA 
 http://zeusplay.life:80/live/IVONE123/IVONE321/233858.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", WWE 
+#EXTINF:-1 tvg-logo=""sports", WWE 
 http://zeusplay.life:80/live/IVONE123/IVONE321/338722.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", OGGEY
+#EXTINF:-1 tvg-logo=""all channels", OGGEY
 http://zeusplay.life:80/live/IVONE123/IVONE321/59713.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", TNT SPORTS 1
+#EXTINF:-1 tvg-logo="", TNT SPORTS 1
 http://opplex.tv:8080/live/global/global/346373.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", KIDS CREATION 
+#EXTINF:-1 tvg-logo=""all channels", KIDS CREATION 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", 9XM
+#EXTINF:-1 tvg-logo=""all channels", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DISNEY 
+#EXTINF:-1 tvg-logo=""all channels", DISNEY 
 http://opplex.tv:8080/live/global/global/167551.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY AAT
+#EXTINF:-1 tvg-logo=""all channels", SONY AAT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 1 HD
+#EXTINF:-1 tvg-logo=""sports", STAR SPORTS 1 HD
 http://opplex.tv:8080/live/global/global/109987.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-logo=""sports", STAR SPORTS 2 HD
 http://opplex.tv:8080/live/global/global/109988.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",sony max
+#EXTINF:-1 tvg-logo=""sports",sony max
 http://opplex.tv:8080/live/global/global/221259.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",  Discovery HD
+#EXTINF:-1 tvg-logo="",  Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
@@ -413,15 +413,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports", Explore tv
+#EXTINF:-1 tvg-logo=""sports", Explore tv
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",Eurosports
+#EXTINF:-1 tvg-logo=""sports",Eurosports
 http://185.189.225.157/EuroSport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE 
+#EXTINF:-1 tvg-logo="" group-title="sports",WWE 
 http://opplex.tv:8080/live/global/global/383065.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",WWE net
+#EXTINF:-1 tvg-logo="",WWE net
 http://opplex.tv:8080/live/global/global/383062.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg", ZEE BANGLA CINEMA
@@ -447,13 +447,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OXC1H4LmjFWW1xbBtOGxgPSybSKtiTgtbg&s" group-title="all channels",EKHON 
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", AL JAZEERA
+#EXTINF:-1 tvg-logo="" group-title="all channels", AL JAZEERA
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BTV WORLD
+#EXTINF:-1 tvg-logo=""all channels", BTV WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
 #EXTINF:-1 group-title="All channels" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png",Ananda TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BBC WORLD
+#EXTINF:-1 tvg-logo=""all channels",BBC WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png", Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -476,9 +476,9 @@ http://filex.tv:8080/live/6272537/276327/9.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/4nBnsuPq03diC5eHXnQYx/d48a4664cdc48b6065b0be2d0c7bc388/Netflix-Logo.jpg", Tbs
 http://xtv.ooo:8080/live/927382370/837382809/346613.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",ARENA SPORTS 2
+#EXTINF:-1 tvg-logo=""sports",ARENA SPORTS 2
 http://xtv.ooo:8080/live/Galaxy.2/4321/347793.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="sports",ARENA SPORTS 1
+#EXTINF:-1 tvg-logo=""sports",ARENA SPORTS 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/353725.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="sports",ASTRO SPORTS 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/352087.ts
@@ -491,41 +491,41 @@ http://xtv.ooo:8080/live/Galaxy.2/4321/352090.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/238475.ts
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png",SUPER SPORTS VARIETY 1
+#EXTINF:-1 tvg-logo="",SUPER SPORTS VARIETY 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/238481.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SKY CRICKET
+#EXTINF:-1 tvg-logo="",SKY CRICKET
 http://xtv.ooo:8080/live/Galaxy.2/4321/167594.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png", A SPORTS
+#EXTINF:-1 tvg-logo="", A SPORTS
 http://xtv.ooo:8080/live/Galaxy.2/4321/219689.ts
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png",SUPER SPORTS VARIETY 1
+#EXTINF:-1 tvg-logo="",SUPER SPORTS VARIETY 1
 http://xtv.ooo:8080/live/Galaxy.2/4321/347276.ts
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports", Bein Sports 1 France 🇫🇷
+#EXTINF:-1 tvg-logo=""sports", Bein Sports 1 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/966/master.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports",Bein Sports 2 France 🇫🇷
+#EXTINF:-1 tvg-logo=""sports",Bein Sports 2 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/970/master.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" video-quality="704x396" group-title="sports", Bein Sports 3 France 🇫🇷
+#EXTINF:-1 tvg-logo=""sports", Bein Sports 3 France 🇫🇷
 http://213.176.3.72:1234/stream/FRANCE/bein3hdfr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",9X MUSIC
+#EXTINF:-1 tvg-logo="" group-title="all channels",9X MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", 9X JALWA
+#EXTINF:-1 tvg-logo=""all channels", 9X JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SANGEET BHOJPURI 
+#EXTINF:-1 tvg-logo=""all channels", SANGEET BHOJPURI 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONY WAW 
+#EXTINF:-1 tvg-logo=""all channels", SONY WAW 
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo=""all channels", DISCOVERY KIDS
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", DISNEY
+#EXTINF:-1 tvg-logo=""all channels", DISNEY
 http://103.84.57.155:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", SONIC
+#EXTINF:-1 tvg-logo="" group-title="all channels", SONIC
 http://103.84.57.155:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", ZEE ACTION
+#EXTINF:-1 tvg-logo=""all channels", ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",sony  aat 2
+#EXTINF:-1 tvg-logo=""all channels",sony  aat 2
 https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", sananda tv
+#EXTINF:-1 tvg-logo=""all channels", sananda tv
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_xNTNVW5RdOt35an92_LnID_wFvi5MQXwd3aBzGdFha4=s900-c-k-c0x00ffffff-no-rj" group-title="all channels", ENTERR 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -755,25 +755,25 @@ http://starsat.us:8080/live/8582/8582/252199.ts
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 #EXTINF:-1 tvg-logo="https://pic-bstarstatic.akamaized.net/ugc/2d07737257387d9e6a4fc8982efaa461.jpg" group-title="Movie", Awara 
 http://xtv.ooo:8080/movie/518340/238497/253061.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", bangali babu english mam
+#EXTINF:-1 tvg-logo="" group-title="Movie", bangali babu english mam
 http://xtv.ooo:8080/movie/518340/238497/253065.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", challange
+#EXTINF:-1 tvg-logo="" group-title="Movie", challange
 http://xtv.ooo:8080/movie/518340/238497/253085.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie",dui prithibi 
+#EXTINF:-1 tvg-logo="" group-title="Movie",dui prithibi 
 http://xtv.ooo:8080/movie/518340/238497/253105.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", le halua le 
+#EXTINF:-1 tvg-logo="" group-title="Movie", le halua le 
 http://xtv.ooo:8080/movie/518340/238497/253151.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", loveria
+#EXTINF:-1 tvg-logo="" group-title="Movie", loveria
 http://xtv.ooo:8080/movie/518340/238497/253155.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", paglu 2
+#EXTINF:-1 tvg-logo="" group-title="Movie", paglu 2
 http://xtv.ooo:8080/movie/518340/238497/253176.mkv
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", rocky 
+#EXTINF:-1 tvg-logo="" group-title="Movie", rocky 
 #EXTINF:-1 tvg-id="" tvg-name="Love Express (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLPSqFVXQBe7Jq2l8fWLhLqMrzh.jpg" group-title="BANGALI MOVIES",Love Express (2016)
 http://xtv.ooo:8080/movie/35588981/18988553/253155.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Loveria (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3uY8a4uhRH6qk3o6IIOXzzxz4h.jpg" group-title="BANGALI MOVIES",Loveria (2013)
 http://xtv.ooo:8080/movie/35588981/18988553/253157.mkv
 
-#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="Movie", female 4
+#EXTINF:-1 tvg-logo="" group-title="Movie", female 4
 http://xtv.ooo:8080/movie/518340/238497/378791.mkv
 
 

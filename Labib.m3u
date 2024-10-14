@@ -381,7 +381,7 @@ https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=al_jazeera
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels", BTV WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world
-#EXTINF:-1 group-title="Nayeem's BDCast" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png",Ananda TV
+#EXTINF:-1 group-title="All channels" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png",Ananda TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Labib-designstyle-cartoon-m.png" group-title="all channels",BBC WORLD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bbc_world

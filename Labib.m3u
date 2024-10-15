@@ -207,12 +207,14 @@ https://entezeetv.fun/bdcast/hls/cdn_ytl.m3u8?id=537cc763a06a8979484821ac637fcfe
 
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png",ATN Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f266d1623d882e66157adefebbdb77a7c79d9a6eb9a1856b6dbbf3d463d5e53b5e835647d888a2024aa3d58f1c2b86dce1b20bdc3fbea643e2dcfc24b00c14ebf31876a52ab63a8a5dd75c9b18f4a40f416db4079635382ccaa19243145a47aaf921de1514aa8e95c145d646c6a91e8dde388d7c33e288ddd61abb8fa67f44eac35ca9deaa12aef2178bf708b6c23a021e62422615722edf26b3c6e6875c5a2d250882850db13f5bc3713015177fe6562922860cb392a9555076a2808ff31c23da7266bb99d0318ef469983a4a08d645b829d9ba8dbba9e6949ced33e0b9e4ac2827d757aa7badb52f368df4736d94d07cd589a00f2e3f0836a9fd601125690e724fddd0d4fae881b1b6fb178e57f15ac06b641485be1a4e764e5009159b3f0d2cab1fa53e1138865f54031a5776c83c4db39f71986602808c939ecdd6d6233f93f1cf18f8a995ce4fd4d1c4d1e798fec86&token=
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png",ATN Bangla HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png",ATN Music
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png",Bangla Vision HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://app.jagobd.com.bd/live-orgin/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8?nimblesessionid=404157275
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png",Channel I HD
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png",DBC News 24/7
@@ -644,6 +646,7 @@ https://nayeemparvez.online/ib-2025/master.m3u8?id=ZeeBangla|Referer=
 https://nayeemparvez.online/ib-2025/master.m3u8?id=Independent|Referer=
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/pziztm5jqxfceqz/atn_bangla_i6Y45fFrYF.jpg", ATN Bangla
 https://nayeemparvez.online/ib-2025/master.m3u8?id=ATNBangla|Referer=
+https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f266d1623d882e66157adefebbdb77a7c79d9a6eb9a1856b6dbbf3d463d5e53b5e835647d888a2024aa3d58f1c2b86dce1b20bdc3fbea643e2dcfc24b00c14ebf31876a52ab63a8a5dd75c9b18f4a40f416db4079635382ccaa19243145a47aaf921de1514aa8e95c145d646c6a91e8dde388d7c33e288ddd61abb8fa67f44eac35ca9deaa12aef2178bf708b6c23a021e62422615722edf26b3c6e6875c5a2d250882850db13f5bc3713015177fe6562922860cb392a9555076a2808ff31c23da7266bb99d0318ef469983a4a08d645b829d9ba8dbba9e6949ced33e0b9e4ac2827d757aa7badb52f368df4736d94d07cd589a00f2e3f0836a9fd601125690e724fddd0d4fae881b1b6fb178e57f15ac06b641485be1a4e764e5009159b3f0d2cab1fa53e1138865f54031a5776c83c4db39f71986602808c939ecdd6d6233f93f1cf18f8a995ce4fd4d1c4d1e798fec86&token=
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/4ubtner5gps20qa/atn_news_nkNFPeX9pM.png", ATN News
 https://nayeemparvez.online/ib-2025/master.m3u8?id=ATNNews|Referer=
 #EXTINF:-1 tvg-logo="https://pb.ihub.live/api/files/8x3xueuva58ilpm/p35773s10cr0nrr/dbcnews_zcIG75FVIu.jpg", DBC News

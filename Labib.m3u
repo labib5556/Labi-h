@@ -222,16 +222,15 @@ https://mhdtvplay.com/bdcast/hls/cdn_ytl.m3u8?chunks=78d18fd599267401865056d9776
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png",Maasranga HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png",RTV HD
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w1815542698.m3u8
 https://cdn2.ihub.live/RTV/index.m3u8?token=5c3ced52eba8439d2b68ef32ec9024ae7e4838a0-19219ac2bbd5160791c9df0d6d7b7e19-1728997466-1728986666
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w1815542698.m3u8
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png",SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1729203031&md5=N1emgom3CvklWGJ5fGerGQ&user=8333f5cef8e441a0abd75ae8344d39d7
+
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=2714235
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png",Ananda TV
 https://bajimath.com/sa/bdcast/hls/cdn_mcast.m3u8?chunks=f34ec1dcfd04c5704a28dfff13ac1f4bea7cb52466e8f4ca6fb8d67228ed22e613311d70fb9cc34ff9dfe5ba4d511f89c31c860db9f108318c4e140283932a96f1f7c8e9002f303dd1c37c4b7fc43de07e9251c3ca924d037ef7abee27bf49db8e0c9a645ca87eda5d8a122b943c24e745d55d64fe322eaa1c29735d95044e3196738f0d1661bba338715164435997441d75ca0896512b6b6b8e5de9b10748be52e13f89446c89defb5b19ffa7ed437e9b69637b1b93cffdd5dac88515ac67c9177ed2ab69d818e5b82775ac64de21d6eebc7a5c42bd4a65b0ece2b3bb8226eaebaeeadbda1085fdfa81773a0ebcc0636b272dac2827ab865d5825e8bff39b85eed74bf15a07739b443fa91a7286b402f67e65e0a116b536d817dcc45e8864f69d06a647e55b50ac2eea76f186eb9d7445b1c307a4468d965f7aad00655d6bb2c896b0ae0f1749c8ef29a308fad82ffb4c30e217695a87561a6dacfa8e1664b759f39a308a85c87183ef3d266bf2905a
-https://bajimath.com/sa/bdcast/hls/cdn_mcast.m3u8?id=d2afce6b5fd672a2d7247184681097518147e0e36efb03bd102b4d01986457f6573ba571424cae33bbf4f2084d7a0cafd475ae4619d29d5f771238dff7a46eb54165fff5708207055aacba439d791d10
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png",Republic Bangla TV
 
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/FRDK6FxY/Zee-Bangla.png",Zee Bangla

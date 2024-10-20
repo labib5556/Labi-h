@@ -122,7 +122,7 @@ http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQWGa7DtBZ__YjYMBuhMIY01KMnwjo9wA3g&s" group-title="all channels", NEWS 24
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWipMQRR49g3ro-hYWvpgHULGuGRHEBrSLQ&s"all channels",SA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWipMQRR49g3ro-hYWvpgHULGuGRHEBrSLQ&s"all channels",SA TV hd
 https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 tvg-logo=""all channels", Ekushey tv
 https://ekusheyserver.com/etvlivesn.m3u8

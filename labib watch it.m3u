@@ -64,10 +64,12 @@ https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer
 http://xtv.ooo:8080/live/98267/02727/245909.m3u8
 #EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png",Banglavision HD
 http://starshare.live:8080/live/Leroy123/Leroy123/426.ts
-
+https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png",Somy News 
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=www.017666.blogspot.com
-
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
+http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png",Channel 24
 http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
@@ -122,7 +124,7 @@ https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWipMQRR49g3ro-hYWvpgHULGuGRHEBrSLQ&s"all channels",SA TV
 http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
-
+https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 tvg-logo=""all channels", Ekushey tv
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyhstSmB4UPc_SlO5ISsNYCqIKKO435Y11sA&s"all channels",GAAN BANGLA

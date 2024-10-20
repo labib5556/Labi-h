@@ -74,6 +74,7 @@ http://starshare.live:8080/live/Leroy123/Leroy123/426.ts
 https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png",Somy News 
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=www.017666.blogspot.com
+https://tgaadi-web.tech/portal/play.php?stream=115
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
 http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=16068&deviceMac=00:1A:79:ED:10:29
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
@@ -86,6 +87,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 http://xtv.ooo:8080/live/927382370/837382809/245964.ts
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png", Shomoy TV
+https://tgaadi-web.tech/portal/play.php?stream=115
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png"all channels", atn news
@@ -94,7 +96,9 @@ http://opplex.tv:8080/live/global/global/245905.ts
 http://opplex.tv:8080/live/global/global/245920.ts
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/861/476/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television-thumbnail.png" group-title="all channels", EKATTOR TV
 http://opplex.tv:8080/live/global/global/245915.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv JagoBD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png" group-title="SR News" ,Somoy Tv live
+https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=www.017666.blogspot.com
+https://tgaadi-web.tech/portal/play.php?stream=115
 https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/250/65/png-clipart-logo-bijoy-tv-brand-television-mpeg-4-part-14-television-blue.png" group-title="all channels", BIJOY TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=bijoy_tv

@@ -465,7 +465,60 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&e
 
 
 
-
+#EXTINF:-1,&FLIX HD
+http://103.124.251.164:28015/play/a01s/index.m3u8
+#EXTINF:-1,&PICTURES HD
+http://103.124.251.164:28015/play/a02o/index.m3u8
+#EXTINF:-1,&prive HD
+http://103.124.251.164:28015/play/a00z/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.124.251.164:28015/play/a00t/index.m3u8
+#EXTINF:-1,BINDASS
+http://103.124.251.164:28015/play/a01u/index.m3u8
+#EXTINF:-1,COLORS INFINITY HD
+http://103.124.251.164:28015/play/a02k/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.124.251.164:28015/play/a028/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.124.251.164:28015/play/a02m/index.m3u8
+#EXTINF:-1,Discovery HD
+http://103.124.251.164:28015/play/a008/index.m3u8
+#EXTINF:-1,ETV BAL BHARAT
+http://103.124.251.164:28015/play/a01l/index.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://103.124.251.164:28015/play/a01t/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://103.124.251.164:28015/play/a01h/index.m3u8
+#EXTINF:-1,HBO Family
+http://103.124.251.164:28015/play/a020/index.m3u8
+#EXTINF:-1,HBO HD
+http://103.124.251.164:28015/play/a01v/index.m3u8
+#EXTINF:-1,HBO Hits HD
+http://103.124.251.164:28015/play/a01w/index.m3u8
+#EXTINF:-1,HBO Signature
+http://103.124.251.164:28015/play/a01z/index.m3u8
+#EXTINF:-1,Hits Active
+http://103.124.251.164:28015/play/a03c/index.m3u8
+#EXTINF:-1,Korean Drama Act
+http://103.124.251.164:28015/play/a03d/index.m3u8
+#EXTINF:-1,NAT GEO HD
+http://103.124.251.164:28015/play/a007/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://103.124.251.164:28015/play/a00h/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://103.124.251.164:28015/play/a00s/index.m3u8
+#EXTINF:-1,STAR GOLD ROMANCE
+http://103.124.251.164:28015/play/a01j/index.m3u8
+#EXTINF:-1,STAR GOLD SELECT HD
+http://103.124.251.164:28015/play/a00r/index.m3u8
+#EXTINF:-1,STAR JALSHA HD
+http://103.124.251.164:28015/play/a009/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://103.124.251.164:28015/play/a005/index.m3u8
+#EXTINF:-1,STAR SPORTS 1 SD
+http://103.124.251.164:28015/play/a022/index.m3u8
+#EXTINF:-1,STAR SPORTS 2
+http://103.124.251.164:28015/play/a03b/index.m3u8
 
 
 

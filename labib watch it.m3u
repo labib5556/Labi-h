@@ -155,6 +155,45 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
 
 
+#EXTINF:-1,Independent TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1,Ekhon Tv
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:-1,desh tv 
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:-1,DBC 
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:-1,Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1,Jamuna TV
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+#EXTINF:-1,Jamuna Tv
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF:-1,News 24 HD
+https://ythls.armelin.one/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+#EXTINF:-1,Nexus TV
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+#EXTINF:-1,N TV 
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1,R TV]
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+#EXTINF:-1,SA TV
+https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
+#EXTINF:-1,Somoy 
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:-1,ABP Ananda
+https://ythls.armelin.one/channel/UCv3rFzn-GHGtqzXiaq3sWNg.m3u8
+#EXTINF:-1,CALCUTTA NEWS
+https://ythls.armelin.one/channel/UCJ3I6MHOz5exARlTW_meOGQ.m3u8
+#EXTINF:-1,ZEE 24 GHANTA
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
+#EXTINF:-1,TV9 Bangla 
+https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
+#EXTINF:-1,News18 Bangla 
+https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+#EXTINF:-1,Republic TV Bangla
+https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+
 
 
 
@@ -462,67 +501,10 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&e
 #EXTINF:-1, TNT SPORT 2 
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
 
-
-
-
-#EXTINF:-1,&FLIX HD
-http://103.124.251.164:28015/play/a01s/index.m3u8
-#EXTINF:-1,&PICTURES HD
-http://103.124.251.164:28015/play/a02o/index.m3u8
-#EXTINF:-1,&prive HD
-http://103.124.251.164:28015/play/a00z/index.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://103.124.251.164:28015/play/a00t/index.m3u8
-#EXTINF:-1,BINDASS
-http://103.124.251.164:28015/play/a01u/index.m3u8
-#EXTINF:-1,COLORS INFINITY HD
-http://103.124.251.164:28015/play/a02k/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://103.124.251.164:28015/play/a028/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://103.124.251.164:28015/play/a02m/index.m3u8
-#EXTINF:-1,Discovery HD
-http://103.124.251.164:28015/play/a008/index.m3u8
-#EXTINF:-1,ETV BAL BHARAT
-http://103.124.251.164:28015/play/a01l/index.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://103.124.251.164:28015/play/a01t/index.m3u8
-#EXTINF:-1,FOX Life HD
-http://103.124.251.164:28015/play/a01h/index.m3u8
-#EXTINF:-1,HBO Family
-http://103.124.251.164:28015/play/a020/index.m3u8
-#EXTINF:-1,HBO HD
-http://103.124.251.164:28015/play/a01v/index.m3u8
-#EXTINF:-1,HBO Hits HD
-http://103.124.251.164:28015/play/a01w/index.m3u8
-#EXTINF:-1,HBO Signature
-http://103.124.251.164:28015/play/a01z/index.m3u8
-#EXTINF:-1,Hits Active
-http://103.124.251.164:28015/play/a03c/index.m3u8
-#EXTINF:-1,Korean Drama Act
-http://103.124.251.164:28015/play/a03d/index.m3u8
-#EXTINF:-1,NAT GEO HD
-http://103.124.251.164:28015/play/a007/index.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://103.124.251.164:28015/play/a00h/index.m3u8
-#EXTINF:-1,STAR BHARAT HD
-http://103.124.251.164:28015/play/a00s/index.m3u8
-#EXTINF:-1,STAR GOLD ROMANCE
-http://103.124.251.164:28015/play/a01j/index.m3u8
-#EXTINF:-1,STAR GOLD SELECT HD
-http://103.124.251.164:28015/play/a00r/index.m3u8
-#EXTINF:-1,STAR JALSHA HD
-http://103.124.251.164:28015/play/a009/index.m3u8
-#EXTINF:-1,STAR MOVIES HD
-http://103.124.251.164:28015/play/a005/index.m3u8
-#EXTINF:-1,STAR SPORTS 1 SD
-http://103.124.251.164:28015/play/a022/index.m3u8
-#EXTINF:-1,STAR SPORTS 2
-http://103.124.251.164:28015/play/a03b/index.m3u8
-
-
-
-
+#EXTINF:-1, Arena sports 3 
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
+#EXTINF:-1, Arena sports 6
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 
 
 

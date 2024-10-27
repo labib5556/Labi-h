@@ -45,6 +45,13 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 BD channel
 
 
+
+#EXTINF:-1,Desh tv 
+https://static.jagobd.com.bd/live-orgin/deshtv.stream/playlist.m3u8|referer=www.017666.blogspot.com
+
+#EXTINF:-1,World bangle
+https://static.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8|referer=www.017666.blogspot.com
+
 #EXTINF:-1,T sports
 https://tsports.iptvbd.xyz/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVCkYi5tQI2oWkJcXnAA8sX8yWKu4WnfsNQ&s"sports", movie bangla

@@ -14,7 +14,6 @@ http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 http://opplex.tv:8080/live/global/global/109987.ts
 
 #EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY AAT
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”Bangla”, STAR JALSHA HD
@@ -37,7 +36,6 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Sony_Sports_Network.jpg/revision/latest/scale-to-width-down/800?cb=20221025083208"all channels",TEN 5
 http://xtv.ooo:8080/live/927382370/837382809/167580.ts
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Labib's SonyLIV",Sony Aath
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 
 

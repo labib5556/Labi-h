@@ -381,18 +381,6 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
 http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
-http://176.119.29.52/live.ts?channelId=33313&uid=5284&deviceMac=00:1A:79:17:C0:71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
-http://176.119.29.52/live.ts?channelId=33314&uid=5284&deviceMac=00:1A:79:17:C0:71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
-http://176.119.29.52/live.ts?channelId=33315&uid=5284&deviceMac=00:1A:79:17:C0:71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
-http://176.119.29.52/live.ts?channelId=33319&uid=5284&deviceMac=00:1A:79:17:C0:71
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
-http://176.119.29.52/live.ts?channelId=33318&uid=5284&deviceMac=00:1A:79:17:C0:71
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="SR Movies", B4U MOVIE
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-logo=""all channels", star jalsha HD

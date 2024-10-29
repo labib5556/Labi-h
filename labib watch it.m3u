@@ -43,6 +43,17 @@ BD channel
 
 
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" group-title="SR News" ,News 24 HD
+http://176.119.29.52/live.ts?channelId=107&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="SR Bangladeshi" ,Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png" group-title="SR Bangladeshi" ,Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmVc7XQ/20240817-133844.png" group-title="SR Bangladeshi" ,Asian Tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkmsTgZ/20240817-133855.png" group-title="SR Bangladeshi" ,Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
 Nadim tv 
 
 #EXTINF:-1,Rtv
@@ -324,9 +335,14 @@ https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3
 
 INDIAN CHANNEL 
 
+
 #EXTINF:-1 tvg-logo=""all channels",sony  aat 2
 https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4pQkwcX/20240815-205052.png" group-title="SR documentary" ,Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="SR Entertainment", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="Nayeem's SonyLIV",Sony HD (SET HD)
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="Nayeem's SonyLIV",Sony SAB HD
@@ -363,6 +379,22 @@ https://its-nayeemparvez.xyz/sliv/playlist.m3u8?id=ten5_hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33313&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33314&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33315&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33319&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SR Sports" ,Astro Cricket FHD
+http://176.119.29.52/live.ts?channelId=33318&uid=5284&deviceMac=00:1A:79:17:C0:71
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="SR Movies", B4U MOVIE
+https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 tvg-logo=""all channels", star jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116592&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2179.m3u8
@@ -403,6 +435,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=12301&uid=16068&deviceMac=00:1A:79:ED
 http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png",Z Bangla Cinema 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02xWysg/20240817-135436.png" group-title="SR Kids" ,Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720702595466.png",Str Golod
 http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png",Star Sports 1

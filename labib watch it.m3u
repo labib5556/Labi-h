@@ -51,6 +51,7 @@ http://176.119.29.52/live.ts?channelId=107&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png" group-title="SR Bangladeshi" ,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png" group-title="SR Bangladeshi" ,Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TmVc7XQ/20240817-133844.png" group-title="SR Bangladeshi" ,Asian Tv
 https://mtlivestream.com/asian/ytlive/index.m3u8

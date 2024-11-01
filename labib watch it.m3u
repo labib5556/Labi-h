@@ -537,6 +537,19 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
 #EXTINF:-1, Arena sports 6
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 
+#EXTINF:-1,ESPN 
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ESPN 2
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ESPN 3
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ESPN 4
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ESPN 5
+https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ESPN 6
+https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+
 
 
 

@@ -357,6 +357,7 @@ INDIAN CHANNEL
 #EXTINF:-1, Zee bangla hd
 http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S1|ZEE BANGLA HD
+http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8
 http://xtv.ooo:8080/live/global/global/245893.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S2|ZEE BANGLA HD
 http://xtv.ooo:8080/live/98267/02727/245893.m3u8
@@ -563,12 +564,24 @@ https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 #EXTINF:-1, ptv sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1,sky sport plus
+http://fcdn.bdixsports.live:1935/event/event1.stream/chunklist_w1194106595.m3u8
+#EXTINF:-1, bein sport extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1, Sky sport
+https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, Astro cricket
+https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1, A sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
+#EXTINF:-1, 
 
-
-
+#EXTINF:-1, 
 
 
 

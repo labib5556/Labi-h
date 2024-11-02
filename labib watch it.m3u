@@ -354,6 +354,10 @@ INDIAN CHANNEL
 
 #EXTINF:-1, Zee bangla hd
 http://103.205.133.71/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S1|ZEE BANGLA HD
+http://xtv.ooo:8080/live/global/global/245893.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S2|ZEE BANGLA HD
+http://xtv.ooo:8080/live/98267/02727/245893.m3u8
 #EXTINF:-1, Sports 18
 http://176.119.29.52/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:-1 tvg-logo=""all channels",sony  aat 2
@@ -402,6 +406,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=6154&deviceMac=00:1A:79:51:31
 http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=6154&deviceMac=00:1A:79:51:31:21
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926957023.png",Disny jr
 http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925762981.png",HUM TV
 http://xsmarters.top:8080/live/0966717777/0966717777/221339.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png",Nick
@@ -573,6 +579,31 @@ https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="INDIAN", SONY ENTERTAINMENT HD
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="INDIAN", SONY SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="INDIAN", SONY PAL 
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIAN", SONY KAL HD
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="INDIAN", SONY WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="INDIAN", SONY PLX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="INDIAN", SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bB7yy7k/20240804-182624.png" group-title="INDIAN", SONY MARATHI
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/120X9VJ/20240804-180037.png" group-title="INDIAN", SONY MAX 2 
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="DOCUMENTRY", SONY BBC EARTH HD
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA", SONY AATH
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 
 

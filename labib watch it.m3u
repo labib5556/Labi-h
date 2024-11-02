@@ -559,11 +559,10 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN 6
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
-
-
-
-
-
+#EXTINF:-1, SETENTA SPORTS
+https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
+#EXTINF:-1, ptv sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
 

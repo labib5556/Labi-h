@@ -584,6 +584,16 @@ https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1, A sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
+#EXTINF:-1, TNT Sports 1 
+https://crichd.onlinetvbd.com/m3u8.php/bbtsp1.m3u8
+#EXTINF:-1, TNT Sports 2 
+https://crichd.onlinetvbd.com/m3u8.php/bbtsp2.m3u8
+#EXTINF:-1, TNT Sports 3 
+https://crichd.onlinetvbd.com/m3u8.php/bbtsp3.m3u8
+#EXTINF:-1, TNT Sports 4 
+https://crichd.onlinetvbd.com/m3u8.php/bbtespn.m3u8
+
+
 #EXTINF:-1, 
 
 #EXTINF:-1, 

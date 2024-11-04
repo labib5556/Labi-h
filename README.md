@@ -1,2 +1,0 @@
-# Labi-h
-Private project

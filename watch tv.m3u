@@ -566,7 +566,8 @@ https://hw1.jemtv.com/app/tv85/chunks.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 ,EURO SPORTS 4k
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
+#EXTINF:-1 ,FOX SPORTS 3 (VN)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 
@@ -606,12 +607,8 @@ https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN 6
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SETENTA SPORTS
-https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 #EXTINF:-1, ptv sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1,sky sport plus
-http://fcdn.bdixsports.live:1935/event/event1.stream/chunklist_w1194106595.m3u8
 #EXTINF:-1, bein sport extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1, Sky sport
@@ -621,22 +618,10 @@ https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1, A sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1, TNT Sports 1 
-https://crichd.onlinetvbd.com/m3u8.php/bbtsp1.m3u8
-#EXTINF:-1, TNT Sports 2 
-https://crichd.onlinetvbd.com/m3u8.php/bbtsp2.m3u8
-#EXTINF:-1, TNT Sports 3 
-https://crichd.onlinetvbd.com/m3u8.php/bbtsp3.m3u8
-#EXTINF:-1, TNT Sports 4 
-https://crichd.onlinetvbd.com/m3u8.php/bbtespn.m3u8
 
 
-#EXTINF:-1, Super Premier League 
-https://crichd.onlinetvbd.com/m3u8.php/superpremier.m3u8
-#EXTINF:-1, Sky Sports Football
-https://crichd.onlinetvbd.com/m3u8.php/skysfott.m3u8
-#EXTINF:-1, Willow Extra Sports 
-https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
+
+
 #EXTINF:-1, 
 
 

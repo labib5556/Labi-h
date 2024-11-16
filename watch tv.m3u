@@ -4,7 +4,6 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dotpe.in/longtail/item_thumbnails/3681248/oDdDLxqJ-354-354.webp",
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dotpe.in/longtail/item_thumbnails/3681248/oDdDLxqJ-354-354.webp", Sony liv live tennis
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/hdntl=exp=1731158449~acl=%2f*~id=1556784483112233~data=hdntl~hmac=b0ef7ad8bc088dfd50df20e1071abf7ec22797dccb8ea65bfd2bdb68cacda1a1/master_1400.m3u8
 https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 
 
@@ -15,7 +14,9 @@ http://xtv.ooo:8080/live/927382370/837382809/245901.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title=, SONY AATH
-https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+
+
 #EXTINF:-1 tvg-logo=”https://www.fredflix.xyz/upload/Sony%20Live%20logo/sony%20aath.png”, SONY AAT
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
@@ -358,49 +359,13 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 INDIAN CHANNEL 
 
 
-sony liv 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="Nayeem's SonyLIV",Sony entertainment
-https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
-
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="Nayeem's SonyLIV",Sony SAB HD
-https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Nayeem's SonyLIV",Sony Aath
-https://toffee.iptvbd.xyz/api/sony_aath.m3u8
-#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="sony-yay" group-title="Nayeem's SonyLIV",Sony Yay bangla
-https://toffee.iptvbd.xyz/api/sony_yay.m3u8
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="sony-max-hd" group-title="Nayeem's SonyLIV",Sony MAX HD
-https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-country="IN" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" tvg-chno="sony-max" group-title="Nayeem's SonyLIV",Sony MAX
-https://toffee.iptvbd.xyz/api/sony_max.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png" tvg-chno="sony-wah" group-title="Nayeem's SonyLIV",Sony WAH
-https://toffee.iptvbd.xyz/api/sony_wah.m3u8
-#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="sony-max-2" group-title="Nayeem's SonyLIV",Sony MAX 2
-https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="sony-pix-hd" group-title="Nayeem's SonyLIV",Sony PIX HD
-https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" tvg-chno="sony-bbc-earth-hd" group-title="Nayeem's SonyLIV",Sony BBC Earth HD
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="sony-ten-1-hd" group-title="Nayeem's SonyLIV",Sony Sports Ten 1 HD
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="sony-ten-2-hd" group-title="Nayeem's SonyLIV",Sony Sports Ten 2 HD
-https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="sony-ten-3-hd" group-title="Nayeem's SonyLIV",Sony Sports Ten 3 HD
-https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="sony-ten-5-hd" group-title="Nayeem's SonyLIV",Sony Sports Ten 5 HD
-https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="sony-pix-hd" group-title="Labib's SonyLIV",Sony PIX HD
-https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S1|ZEE BANGLA HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8
 http://xtv.ooo:8080/live/global/global/245893.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA", OP,S2|ZEE BANGLA HD
 http://xtv.ooo:8080/live/98267/02727/245893.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
-https://tgaadi-web.tech/portal/play.php?stream=119
+
 
 
 #EXTINF:-1, Sports 18

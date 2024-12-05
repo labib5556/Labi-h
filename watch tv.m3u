@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, NETFLIX WWE 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=689837&extension=ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.dotpe.in/longtail/item_thumbnails/3681248/oDdDLxqJ-354-354.webp",
 
@@ -491,21 +493,19 @@ http://opplex.tv:8080/live/global/global/26187.ts
 http://opplex.tv:8080/live/global/global/346373.ts
 
 #EXTINF:-1 tvg-logo=""all channels", 9XM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
+http://xtv.ooo:8080/live/927382370/837382809/66192.ts
 #EXTINF:-1 tvg-logo=""all channels", 9Xtashan
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+http://xtv.ooo:8080/live/927382370/837382809/66289.ts
 #EXTINF:-1 tvg-logo=""all channels", 9XM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+http://xtv.ooo:8080/live/927382370/837382809/66226.ts
 #EXTINF:-1 tvg-logo=""all channels", DISNEY 
-http://opplex.tv:8080/live/global/global/167551.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=947907&extension=ts
 #EXTINF:-1 tvg-logo=""all channels", SONY AAT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
 #EXTINF:-1 tvg-logo=""sports", STAR SPORTS 1 HD
-http://opplex.tv:8080/live/global/global/109987.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373206&extension=ts
 #EXTINF:-1 tvg-logo=""sports", STAR SPORTS 2 HD
-http://opplex.tv:8080/live/global/global/109988.ts
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373204&extension=ts
 #EXTINF:-1 tvg-logo=""sports",sony max
 http://opplex.tv:8080/live/global/global/221259.ts
 #EXTINF:-1 tvg-logo="",  Discovery HD
@@ -532,7 +532,9 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="all channels",9X MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo=""all channels", 9X JALWA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373064&extension=ts
+#EXTINF:-1 tvg-logo=""all channels", 9X jhakkas
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373430&extension=ts
 #EXTINF:-1 tvg-logo=""all channels", SANGEET BHOJPURI 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
@@ -675,6 +677,11 @@ https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
 #EXTINF:-1, Arena sports 6
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
+#EXTINF:-1,DAZN 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=894969&extension=ts
+#EXTINF:-1, DAZN 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=894974&extension=ts
+#EXTINF:-1,
 
 #EXTINF:-1,ESPN 
 https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8

@@ -90,9 +90,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVCkYi5tQI2oWkJcXnAA8sX8yWKu4WnfsNQ&s"sports", movie bangla
 http://alvetv.com/mbtv/8080/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/Nbw3bKO.png",Probashi Tv
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+https://mytvbangla.com/0.m3u8
 https://mytvbangla.com/0.m3u8
 
 
@@ -168,8 +167,10 @@ https://fyfl.short.gy/DeshiTV.m3u8?www.017666.blogspot.com
 https://static.jagobd.com.bd/live-orgin/tehelkatv.stream/playlist.m3u8|referer=www.017666.blogspot.com
 #EXTINF:-1,sangeet music
 https://fyfl.short.gy/Nadimraja9xm.m3u8?www.017666.blogspot.com
-Sangeet bangle= 
+#EXTINF:-1, Sangeet bangle= 
 https://fyfl.short.gy/NadimHDTV.Com/.m3u8?www.017666.blogspot.com
+#EXTINF:-1, zoom 
+https://fyfl.short.gy/NadimRaza/ZoomTV.m3u8?www.017666.blogspot.com
 #EXTINF:-1,Tv 9 bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8?www.017666.blogspot.com
 #EXTINF:-1,Republic bangle
